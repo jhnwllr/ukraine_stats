@@ -1,10 +1,3 @@
-
-## Ukraine GBIF statistics  
-
-This is a small project to show that **Ukranian publishers** continued to publish to GBIF even after the invasion by Russia on **24 February 2022**. 
-
-![](https://raw.githubusercontent.com/jhnwllr/ukraine_stats/main/plots/ua_ds_ts.svg)
-
 |publisher                                                                        |n_occ  |n_species |n_dataset |added_occ_after_war |added_species_after_war |added_dataset_after_war |publisher_link                                                                         |
 |:--------------------------------------------------------------------------------|:------|:---------|:---------|:-------------------|:-----------------------|:-----------------------|:--------------------------------------------------------------------------------------|
 |Ukrainian Nature Conservation Group (NGO)                                        |317128 |10636     |114       |159321              |4952                    |63                      |<a href="https://www.gbif.org/publisher/ca2fd897-6108-4361-91f8-b39dc8d12d13">link</a> |
@@ -25,8 +18,3 @@ This is a small project to show that **Ukranian publishers** continued to publis
 |The IBK Mushroom Culture Collection of the M.G. Kholodny Institute of Botany     |1260   |217       |1         |0                   |0                       |0                       |<a href="https://www.gbif.org/publisher/1ce84f9e-a0da-4bf7-9bf9-c469dd4cdc54">link</a> |
 |Ukrainian Scientific Centre of Ecology of the Sea (UkrSCES)                      |6464   |65        |10        |0                   |0                       |0                       |<a href="https://www.gbif.org/publisher/b9a1023a-e508-4168-a837-fa0781820a8b">link</a> |
 |Zhytomyr Ivan Franko State University                                            |19453  |812       |3         |0                   |0                       |0                       |<a href="https://www.gbif.org/publisher/ec158bb6-d6fb-4701-a76b-65be3eb2393d">link</a> |
-
-
-
-
-

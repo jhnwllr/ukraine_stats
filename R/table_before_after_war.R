@@ -45,7 +45,7 @@ publisher_link) %>%
 glimpse() 
 
 ## export table formats
-export %>% knitr::kable()
+export %>% knitr::kable() %>% writeLines("data/export/markdown.md")
 print(xtable(export), type = "html", file = "data/export/before_after_war.html",sanitize.text.function = force,include.rownames=FALSE)
 openxlsx::write.xlsx(export, 'data/export/before_after_war.xlsx',overwrite=TRUE)
 

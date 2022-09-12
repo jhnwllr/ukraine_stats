@@ -16,8 +16,8 @@ ssh-add
 # unzip data/ua_stats.parquet.zip -d data/ua_stats.parquet
 # rm -r data/ua_stats.parquet.zip
 
-# Rscript.exe --vanilla R/table_before_after_war.R
+Rscript.exe --vanilla R/table_before_after_war.R
 # Rscript.exe --vanilla R/plot_ua_occ_ts.R
-Rscript.exe --vanilla R/export_raw_data_as_excel.R
+# Rscript.exe --vanilla R/export_raw_data_as_excel.R
 
 
